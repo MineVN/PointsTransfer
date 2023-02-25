@@ -1,0 +1,15 @@
+servers:
+  minestrike:
+    name: "&b&lMine&c&lStrike"
+    icon: "DIAMOND"
+    slot: 1
+    username: ""
+    password: ""
+    database: ""
+  tml:
+    name: "&e&lTomorrowland"
+    icon: "GOLD_INGOT"
+    slot: 2
+    username: ""
+    password: ""
+    database: ""

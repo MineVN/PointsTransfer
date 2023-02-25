@@ -1,0 +1,11 @@
+name: PointsTransfer
+version: '${version}'
+main: net.minevn.pointstransfer.PointsTransfer
+api-version: 1.19
+depend: [ PlayerPoints ]
+authors: [ MineVN ]
+description: Transfer your Points
+commands:
+  chuyenpoints:
+    description: Chuyển hết points sang cụm khác
+    usage: /<command>
